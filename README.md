@@ -1,10 +1,12 @@
-👋 Hi, I’m Anindya Dey. I am from India!
+👋 Namaste World 🙏 I’m Anindya Dey, a software engineer from India 🙂
+---
+❤️ I love the vast universe of 0s and 1s 😍
 
-👀 Apart from programming, I’m interested in animation and music
+🖥️ I am inspired and fascinated by open-source softwares and technologies. And I try to contribute my bit to this brilliant initiative 💻
 
-🌱 I’m currently learning Python
+👀 Apart from programming, I’m interested in animation and music. 🎵 I love to play Piano 🎹 and Guitar 🎸
 
-💞️ I’m looking to collaborate on AI/ML
+🌱 I’m currently learning Python 🐍 and AI/ML 🤖
 
 <!---
 andys-github/andys-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
