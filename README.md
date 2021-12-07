@@ -16,12 +16,12 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-<p align="center">
-  <img alt="Anindya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&theme=radical" />
+<p align="left">
+  <img alt="Anindya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&custom_title=My%20Github%20Stats&line_height=32&theme=radical" />
 </p>
 
 <!--
-<p align="center">
+<p align="left">
   <img alt="Top 3 languages used by Anindya"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&langs_count=3&theme=radical" />
 </p>
 -->
