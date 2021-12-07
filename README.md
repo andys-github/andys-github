@@ -17,5 +17,11 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <p align="center">
-  <img alt="Anindya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&theme=algolia" />
+  <img alt="Anindya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&theme=radical" />
 </p>
+
+<!--
+<p align="center">
+  <img alt="Top 3 languages used by Anindya"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&langs_count=3&theme=radical" />
+</p>
+-->
