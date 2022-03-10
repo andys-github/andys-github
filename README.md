@@ -3,7 +3,7 @@ andys-github/andys-github is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Namaste World 🙏 I’m Anindya Dey, a software engineer from India 🙂 
+👋 Namaste World 🙏 I’m Anindya Dey, a software engineer from India 🙂 🇮🇳
 ---
 ❤️ I love the vast universe of 0s and 1s 😍
 
