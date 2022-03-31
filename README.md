@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="Anindya's LinkedIn Profile" src="https://user-images.githubusercontent.com/30517208/161002087-4cedacf2-082d-4035-b0cd-850a8d74d2de.svg" height="25" width="25"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/anindyadey/">
+  <a href="https://www.twitter.com/anindya0101">
     <img alt="Anindya's Twitter Account" src="https://user-images.githubusercontent.com/30517208/161002854-1e3d59f7-7bed-4fa6-8ceb-0bda9850512b.svg" height="25" width="25"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="Anindya's Intagram Account" src="https://user-images.githubusercontent.com/30517208/161002931-eb8ee959-a911-4ce3-afe7-cc2a039df7e8.svg" height="25" width="25"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/anindyadey/">
+  <a href="https://stackoverflow.com/users/13584363/anindya-dey/">
     <img alt="Anindya's StackOverFlow Profile" src="https://user-images.githubusercontent.com/30517208/161003129-13db0fee-b3d8-46a6-9e5d-9531b6e7284b.svg" height="25" width="25"/>
   </a>
 </p>
