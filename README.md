@@ -15,6 +15,18 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
+### My Projects:
+---
+⭐ [My Portfolio Website](https://anindyadey.com/)
+
+⭐ [My Blog](https://blog.anindyadey.com)
+
+⭐ [tfvm](https://www.npmjs.com/package/tfvm) - a NodeJS-based CLI tool that I created to manage Terraform versions on my system
+
+---
+
+<br />
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&custom_title=My%20Github%20Stats&line_height=30&theme=radical" alt="Github Stats of Anindya" title="Github Stats of Anindya" height="220"/>
   
@@ -29,9 +41,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<br />
-<br />
-<hr />
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anindyadey/">
