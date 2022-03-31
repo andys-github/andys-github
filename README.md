@@ -16,15 +16,15 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&custom_title=My%20Github%20Stats&line_height=27&theme=radical" alt="Github Stats of Anindya" title="Github Stats of Anindya" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&custom_title=My%20Github%20Stats&line_height=30&theme=radical" alt="Github Stats of Anindya" title="Github Stats of Anindya" height="300"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&langs_count=3&theme=radical" alt="Top 3 languages used by Anindya" title="Top 3 languages used by Anindya" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&langs_count=5&theme=radical" alt="Top 3 languages used by Anindya" title="Top 3 languages used by Anindya" height="300"/>
 </p>
 
 <br />
 
 <p>
   <a href="https://stackoverflow.com/users/13584363/anindya-dey">
-    <img src="https://stackoverflow.com/users/flair/13584363.png?theme=dark" width="208" height="58" alt="Profile for Anindya Dey at Stack Overflow" title="Profile for Anindya at Stack Overflow" />
+    <img src="https://stackoverflow.com/users/flair/13584363.png?theme=dark" width="250" height="70" alt="Profile for Anindya Dey at Stack Overflow" title="Profile for Anindya at Stack Overflow" />
   </a>
 </p>
