@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 ### My Projects:
 ---
-⭐ [My Portfolio Website](https://anindyadey.com/)
+⭐ [My portfolio](https://anindyadey.com/)
 
-⭐ [My Blog](https://blog.anindyadey.com)
+⭐ [My blog](https://blog.anindyadey.com)
 
 ⭐ [tfvm](https://www.npmjs.com/package/tfvm) - a NodeJS-based CLI tool that I created to manage Terraform versions on my system
 
