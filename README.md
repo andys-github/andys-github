@@ -20,10 +20,15 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### Languages I work with:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<p>
+  <img src="https://user-images.githubusercontent.com/30517208/165693466-85a92bdc-3d0a-4f7d-aae4-a97ade196ba4.svg" alt="Python" title="Python" width="32" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/165693509-91a04cc5-2839-4ef2-8f7e-719b327a15b5.svg" alt="Javascript" title="Javascript" width="32" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/165693550-d5d82918-515c-4bfd-9b21-e113d4b11513.svg" alt="C-Sharp" title="C-Sharp" width="32" />
+  &nbsp;&nbsp;
+</p>
 
 <br />
 
