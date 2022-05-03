@@ -13,9 +13,6 @@ You can click the Preview link to take a look at your changes.
 👀 Apart from programming, I’m interested in animation 🐼 and music 🎵 and I also love to play Piano 🎹 and Guitar 🎸
 
 🌱 I’m currently learning Python 🐍 and AI/ML 🤖
-<br />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=andys-github.andys-github&left_color=green&right_color=red)
 
 ---
 
@@ -113,18 +110,18 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<table align="center">
-  <tr align="center">
+<table align="center" width="900">
+  <tr align="center" height="300">
     <td colspan="2">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=andys-github&theme=radical&hide_border=true&fire=yellow&ring=orange" alt="Anindya's Github Streak" title="Anindya's Github Streak" height="300" width="650" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=andys-github&theme=radical&hide_border=true&fire=yellow&ring=orange" alt="Anindya's Github Streak" title="Anindya's Github Streak" width="650" />
     </td>
   </tr>
-  <tr align="center">
+  <tr align="center" height="250">
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="300" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="250" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" height="300" />
+      <img src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" height="250" />
     </td>
   </tr>
 </table>
