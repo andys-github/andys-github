@@ -19,15 +19,24 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+### My Projects:
+⭐ [My portfolio](https://anindyadey.com/)
+
+⭐ [My blog](https://blog.anindyadey.com)
+
+⭐ [tfvm](https://www.npmjs.com/package/tfvm) - a NodeJS-based CLI tool that I created to manage Terraform versions on my system
+
+---
+
 ### Languages I work with:
 
 <p>
-  <img src="https://user-images.githubusercontent.com/30517208/165693466-85a92bdc-3d0a-4f7d-aae4-a97ade196ba4.svg" alt="Python" title="Python" width="32" />
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/30517208/165693509-91a04cc5-2839-4ef2-8f7e-719b327a15b5.svg" alt="Javascript" title="Javascript" width="32" />
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/30517208/165693550-d5d82918-515c-4bfd-9b21-e113d4b11513.svg" alt="C-Sharp" title="C-Sharp" width="32" />
-  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/165693466-85a92bdc-3d0a-4f7d-aae4-a97ade196ba4.svg" alt="Python" title="Python" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/165693509-91a04cc5-2839-4ef2-8f7e-719b327a15b5.svg" alt="Javascript" title="Javascript" width="32" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/165693550-d5d82918-515c-4bfd-9b21-e113d4b11513.svg" alt="C-Sharp" title="C-Sharp" width="32" height="36" />
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -71,67 +80,71 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### My Projects:
-⭐ [My portfolio](https://anindyadey.com/)
-
-⭐ [My blog](https://blog.anindyadey.com)
-
-⭐ [tfvm](https://www.npmjs.com/package/tfvm) - a NodeJS-based CLI tool that I created to manage Terraform versions on my system
-
----
-
 ### Tools I use personally:
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+<p>
+  <img src="https://user-images.githubusercontent.com/30517208/166412893-55883791-5914-442f-89cd-3cc817709847.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/166413047-d930b935-4479-45f6-9662-e78cb4a3b869.svg" alt="VS Code" title="VS Code" width="36" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/166413065-75940a34-c194-41c7-b741-0094dd65e351.svg" alt="Firefox" title="Firefox" width="36" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/166413615-c497e3ba-c4a8-4424-963b-90bfb754288f.svg" alt="Duckduck Go" title="Duckduck Go" width="36" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/166413379-5867ba7c-b64f-41f2-9ed9-ceee7002f29f.svg" alt="Github" title="Github" width="36" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/166413382-079414e8-acb2-4133-9b6d-ddd0c33b4667.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="36" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/166413388-d3253253-e0b4-480a-8fa3-857b5193fe13.svg" alt="Vercel" title="Vercel" width="36" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/166413396-6c98e353-5cba-4486-97ff-3ca106959ad4.svg" alt="AWS" title="AWS" width="36" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+</p>
+
 
 <br />
 
 ### Hobbies
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+<p>
+  <img src="https://user-images.githubusercontent.com/30517208/166411218-aa05ffe5-a6f5-4c22-bc60-d48d8b096fb5.svg" alt="Arduino" title="Arduino" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/166411234-61956dab-3d7b-45ee-8abc-5f0f3c1b3925.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" height="300" width="650"/>
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="300" width="650"/>
-
-  <!-- <img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=13584363&theme=dark" /> -->
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=andys-github&theme=radical&hide_border=true&fire=yellow&ring=orange" alt="Anindya's Github Streak" title="Anindya's Github Streak" height="300" width="650" />
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://stackoverflow.com/users/13584363/anindya-dey?tab=profile" target="_blank" rel="noopener noreferrer">
-    <img src="https://stackoverflow.com/users/flair/13584363.png?theme=dark" width="190" height="55" alt="Profile for Anindya Dey at Stack Overflow" title="Profile for Anindya at Stack Overflow"/>
-  </a>
-</p>
-
+<table align="center">
+  <tr align="center">
+    <td colspan="2">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=andys-github&theme=radical&hide_border=true&fire=yellow&ring=orange" alt="Anindya's Github Streak" title="Anindya's Github Streak" height="300" width="650" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="300" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" height="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anindyadey/" target="_blank" rel="noopener noreferrer">
-    <img alt="Anindya's LinkedIn Profile" src="https://user-images.githubusercontent.com/30517208/161002087-4cedacf2-082d-4035-b0cd-850a8d74d2de.svg" height="25" width="25"/>
+    <img alt="Anindya's LinkedIn Profile" src="https://user-images.githubusercontent.com/30517208/161002087-4cedacf2-082d-4035-b0cd-850a8d74d2de.svg" height="32" width="32"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.twitter.com/anindya0101" target="_blank" rel="noopener noreferrer">
-    <img alt="Anindya's Twitter Account" src="https://user-images.githubusercontent.com/30517208/161002854-1e3d59f7-7bed-4fa6-8ceb-0bda9850512b.svg" height="25" width="25"/>
+    <img alt="Anindya's Twitter Account" src="https://user-images.githubusercontent.com/30517208/161002854-1e3d59f7-7bed-4fa6-8ceb-0bda9850512b.svg" height="32" width="32"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/andys_cli/" target="_blank" rel="noopener noreferrer">
-    <img alt="Anindya's Intagram Account" src="https://user-images.githubusercontent.com/30517208/161002931-eb8ee959-a911-4ce3-afe7-cc2a039df7e8.svg" height="25" width="25"/>
+    <img alt="Anindya's Intagram Account" src="https://user-images.githubusercontent.com/30517208/161002931-eb8ee959-a911-4ce3-afe7-cc2a039df7e8.svg" height="32" width="32"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/13584363/anindya-dey/" target="_blank" rel="noopener noreferrer">
-    <img alt="Anindya's StackOverFlow Profile" src="https://user-images.githubusercontent.com/30517208/161003129-13db0fee-b3d8-46a6-9e5d-9531b6e7284b.svg" height="25" width="25"/>
+    <img alt="Anindya's StackOverFlow Profile" src="https://user-images.githubusercontent.com/30517208/161003129-13db0fee-b3d8-46a6-9e5d-9531b6e7284b.svg" height="32" width="32"/>
   </a>
 </p>
