@@ -30,9 +30,9 @@ You can click the Preview link to take a look at your changes.
 <p>
   <img src="https://user-images.githubusercontent.com/30517208/165693466-85a92bdc-3d0a-4f7d-aae4-a97ade196ba4.svg" alt="Python" title="Python" width="36" height="36" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/30517208/165693509-91a04cc5-2839-4ef2-8f7e-719b327a15b5.svg" alt="Javascript" title="Javascript" width="32" height="36" />
+  <img src="https://user-images.githubusercontent.com/30517208/165693509-91a04cc5-2839-4ef2-8f7e-719b327a15b5.svg" alt="Javascript" title="Javascript" width="36" height="36" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/30517208/165693550-d5d82918-515c-4bfd-9b21-e113d4b11513.svg" alt="C-Sharp" title="C-Sharp" width="32" height="36" />
+  <img src="https://user-images.githubusercontent.com/30517208/165693550-d5d82918-515c-4bfd-9b21-e113d4b11513.svg" alt="C-Sharp" title="C-Sharp" width="36" height="36" />
   &nbsp;&nbsp;&nbsp;
 </p>
 
@@ -40,18 +40,26 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ### Frameworks I have experience in:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://user-images.githubusercontent.com/30517208/167120236-5f39ef04-bcc4-4708-8e4a-9c4049c25494.svg" alt="React" title="React" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167120288-78358b7a-8fda-42dc-9ad0-04c2fe8a1bea.svg" alt="Dot Net Core" title="Dot Net Core" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167120401-724d0856-2274-4521-9c78-3f05643c23f4.svg" alt="Angular" title="Angular" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167120463-4da84fa1-d41b-4045-abea-399eb7fe815c.svg" alt="Django" title="Django" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167121149-fc34d8d1-b87b-4f53-b966-5b97a1a86e02.svg" alt="Electron JS" title="Electron JS" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167121548-a231bae7-7cee-4ed3-878b-73c31eb4ff0e.svg" alt="Express JS" title="Express JS" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167121559-20563e3a-9d20-4840-9406-da1e1360c238.svg" alt="Next JS" title="Next JS" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167121759-e4089d2e-367a-4d4d-81b4-aa833a7df43a.svg" alt="Node JS" title="Node JS" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167121769-e5c60bb7-6378-4234-8dc8-154c3c789899.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+</p>
 
 <br />
 
@@ -97,7 +105,10 @@ You can click the Preview link to take a look at your changes.
   &nbsp;&nbsp;&nbsp;
 </p>
 
-
+### My Stackoverflow Profile
+<p>
+  <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=gruvbox-dark" />
+</p>
 
 <br />
 
