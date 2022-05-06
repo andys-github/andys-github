@@ -107,7 +107,7 @@ You can click the Preview link to take a look at your changes.
 
 ### My Stackoverflow Profile
 <p>
-  <img height="200px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=gruvbox-dark" />
+  <img height="200px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=gruvbox-light" />
 </p>
 
 <br />
