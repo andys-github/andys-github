@@ -35,12 +35,12 @@ You can click the Preview link to take a look at your changes.
         <tr>
           <td>
             <a href="https://www.instagram.com/andys_cli/" target="_blank" rel="noopener noreferrer">
-              <img alt="Anindya's Intagram Account" src="https://user-images.githubusercontent.com/30517208/161002931-eb8ee959-a911-4ce3-afe7-cc2a039df7e8.svg" height="32" width="32"/>
+              <img alt="Anindya's Instagram Account" title="@andys_corner" src="https://user-images.githubusercontent.com/30517208/161002931-eb8ee959-a911-4ce3-afe7-cc2a039df7e8.svg" height="32" width="32"/>
             </a>
           </td>
           <td>
-            <a href="#" target="_blank" rel="noopener noreferrer">
-              <img alt="Anindya's Discord Server" src="https://user-images.githubusercontent.com/30517208/167137999-4d84332d-9e34-4478-8161-872d8168be0a.svg" height="32" width="32"/>
+            <a href="https://discord.gg/6aGZhKts" target="_blank" rel="noopener noreferrer">
+              <img alt="Bits n' Bytes Discord Server" title="Bits n' Bytes Discord Server" src="https://user-images.githubusercontent.com/30517208/167137999-4d84332d-9e34-4478-8161-872d8168be0a.svg" height="32" width="32"/>
             </a>
           </td>
         </tr>
