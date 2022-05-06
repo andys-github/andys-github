@@ -64,24 +64,40 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ### Tools I work with:
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p>
+  <img src="https://user-images.githubusercontent.com/30517208/167129921-687ec695-01d6-425d-9d1b-f4c5d81a179f.svg" alt="Visual Studio" title="Visual Studio" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167131225-2eb3099d-8aac-419a-9c9e-c2bb367b9515.svg" alt="Jetbrains Rider" title="Jetbrains Rider" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167129953-31d20de5-9fe4-4d2e-b23b-36bfa50b2ec4.svg" alt="Docker" title="Docker" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167130831-00e9a32a-1138-4584-a929-af1b8716c336.svg" alt="Terraform" title="Terraform" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167130859-dd8f6117-5171-4cfe-ac64-c82e491b1063.svg" alt="Redis" title="Redis" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167131730-acc1299e-8c51-4a7f-8d89-96a6d813bedb.svg" alt="MS SQL" title="MS SQL" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167131745-0a396599-81d4-4006-a534-2c3f6276c282.svg" alt="AWS DynamoDB" title="AWS DynamoDB" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167131781-71b39884-6c55-450d-a269-6cee4e1ca9bd.svg" alt="Gitlab" title="Gitlab" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167131801-a3dac5f1-07fe-4d83-96ab-ea9363c10471.svg" alt="Bitbucket" title="Bitbucket" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167134799-be82af13-0acc-4724-b80c-cc6988a5a817.svg" alt="Swagger" title="Swagger" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167134811-61024dc3-c3a3-40bd-a2b9-8824a273e950.svg" alt="Postman" title="Postman" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167134828-3a201a05-e48e-44ca-9996-7894046376e1.svg" alt="Jira" title="Jira" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167137289-c72796a9-9c66-4613-85db-11caa5dfa70e.svg" alt="Confluence" title="Confluence" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167137561-b0c0a2d0-274c-4fe7-9418-9123bc1a2240.svg" alt="Trello" title="Trello" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167137584-35fe06b3-5550-4ce3-a074-c1b17d97ceea.svg" alt="Slack" title="Slack" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/30517208/167137599-7c9535f8-f622-495b-8bdf-58cd662538db.svg" alt="Skype" title="Skype" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+</p>
 
 ---
 
