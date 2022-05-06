@@ -172,4 +172,10 @@ You can click the Preview link to take a look at your changes.
   <a href="https://stackoverflow.com/users/13584363/anindya-dey/" target="_blank" rel="noopener noreferrer">
     <img alt="Anindya's StackOverFlow Profile" src="https://user-images.githubusercontent.com/30517208/161003129-13db0fee-b3d8-46a6-9e5d-9531b6e7284b.svg" height="32" width="32"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img alt="Anindya's StackOverFlow Profile" src="https://user-images.githubusercontent.com/30517208/167137999-4d84332d-9e34-4478-8161-872d8168be0a.svg" height="32" width="32"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 </p>
+
