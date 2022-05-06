@@ -87,15 +87,16 @@ You can click the Preview link to take a look at your changes.
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/30517208/166413615-c497e3ba-c4a8-4424-963b-90bfb754288f.svg" alt="Duckduck Go" title="Duckduck Go" width="36" height="36"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/30517208/166413379-5867ba7c-b64f-41f2-9ed9-ceee7002f29f.svg" alt="Github" title="Github" width="36" height="36"/>
+  <img src="https://user-images.githubusercontent.com/30517208/167093584-340d5364-6dc4-4719-bfdb-dcc6867d7bab.svg" alt="Github" title="Github" width="36" height="36"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/30517208/166413382-079414e8-acb2-4133-9b6d-ddd0c33b4667.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="36" height="36"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/30517208/166413388-d3253253-e0b4-480a-8fa3-857b5193fe13.svg" alt="Vercel" title="Vercel" width="36" height="36"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/30517208/166413396-6c98e353-5cba-4486-97ff-3ca106959ad4.svg" alt="AWS" title="AWS" width="36" height="36"/>
+  <!--<img src="https://user-images.githubusercontent.com/30517208/166413388-d3253253-e0b4-480a-8fa3-857b5193fe13.svg" alt="Vercel" title="Vercel" width="36" height="36"/>
+  &nbsp;&nbsp;&nbsp;-->
+  <img src="https://user-images.githubusercontent.com/30517208/167093609-bce52b1b-32c6-4ad9-8dfc-3ceaa1288ea8.svg" alt="AWS" title="AWS" width="36" height="36"/>
   &nbsp;&nbsp;&nbsp;
 </p>
+
 
 
 <br />
