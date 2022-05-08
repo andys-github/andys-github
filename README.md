@@ -9,20 +9,20 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <td>
+    <td colspan="2">
       <p>❤️ I love the vast universe of 0s and 1s 😍</p>
       <p>🖥️ I am inspired and fascinated by open-source softwares and technologies. And I try to contribute my bit to this brilliant initiative 💻</p>
       <p>👀 Apart from programming, I’m interested in animation 🐼 and music 🎵 and I also love to play Piano 🎹 and Guitar 🎸</p>
       <p>🌱 I’m currently learning Python 🐍 and AI/ML 🤖</p>
     </td>
-    <td align="center">
+    <td align="center" colspan="1">
       <table>
         <tr>
           <th colspan="2">Get in touch!</th>
         </tr>
         <tr>
           <td>
-            <a href="https://www.linkedin.com/in/anindyadey/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/anindyadey" target="_blank" rel="noopener noreferrer">
               <img alt="Anindya's LinkedIn Profile" src="https://user-images.githubusercontent.com/30517208/161002087-4cedacf2-082d-4035-b0cd-850a8d74d2de.svg" height="32" width="32"/>
             </a>
           </td>
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
         </tr>
         <tr>
           <td>
-            <a href="https://www.instagram.com/andys_cli/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/andys_cli" target="_blank" rel="noopener noreferrer">
               <img alt="Anindya's Instagram Account" title="@andys_corner" src="https://user-images.githubusercontent.com/30517208/161002931-eb8ee959-a911-4ce3-afe7-cc2a039df7e8.svg" height="32" width="32"/>
             </a>
           </td>
@@ -47,20 +47,24 @@ You can click the Preview link to take a look at your changes.
       </table>
     </td>
   </tr>
-</table>
-
-<br />
-
-### My Projects:
-⭐ [My portfolio](https://anindyadey.com/)
-
-⭐ [My blog](https://blog.anindyadey.com)
-
-⭐ [tfvm](https://www.npmjs.com/package/tfvm) - a NodeJS-based CLI tool that I created to manage Terraform versions on my system
-
-<br />
-
-<table width="100%">
+  <tr>
+    <th colspan="1">
+      My Projects
+    </th>
+    <th colspan="2">
+      Top 5 Languages used by me
+    </th>
+  </tr>
+  <tr>
+    <td colspan="1">
+      <p>⭐ <a href="https://anindyadey.com" target="_blank" rel="noopener noreferrer">My portfolio</a></p>
+      <p>⭐ <a href="https://blog.anindyadey.com" target="_blank" rel="noopener noreferrer">My blog</a></p>
+      <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
+    </td>
+    <td colspan="2"  align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="200px" />
+    </td>
+  </tr>
   <tr>
     <th width="500">
       My Stack Overflow Stats
@@ -74,7 +78,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td align="center" rowspan="3">
-      <img height="200px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=gruvbox-dark" />
+      <img height="200px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=solarized-dark" />
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/30517208/165693466-85a92bdc-3d0a-4f7d-aae4-a97ade196ba4.svg" alt="Python" title="Python" width="36" height="36" />
@@ -141,11 +145,8 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr align="center" height="200">
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="250" />
-    </td>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" height="300px" />
+    <td colspan="3">
+      <img src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" height="200px" />
     </td>
   </tr>
 </table>
