@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <td colspan="2">
+    <td colspan="2" height="250px">
       <p>❤️ I love the vast universe of 0s and 1s 😍</p>
       <p>🖥️ I am inspired and fascinated by open-source softwares and technologies. And I try to contribute my bit to this brilliant initiative 💻</p>
       <p>👀 Apart from programming, I’m interested in animation 🐼 and music 🎵 and I also love to play Piano 🎹 and Guitar 🎸</p>
@@ -48,15 +48,18 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
     <th colspan="1">
-      My Projects
+      <h3>My Projects</h3>
     </th>
     <th colspan="2">
-      Top 5 Languages used by me
+      <h3>Top 5 Languages used by me</h3>
     </th>
   </tr>
   <tr>
-    <td colspan="1">
+    <td colspan="1" height="250px">
       <p>⭐ <a href="https://anindyadey.com" target="_blank" rel="noopener noreferrer">My portfolio</a></p>
       <p>⭐ <a href="https://blog.anindyadey.com" target="_blank" rel="noopener noreferrer">My blog</a></p>
       <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
@@ -66,18 +69,21 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
     <th width="500">
-      My Stack Overflow Stats
+      <h3>My Stack Overflow Stats</h3>
     </th>
     <th width="250">
-      Languages I Work With
+      <h3>Languages I Work With</h3>
     </th>
     <th width="250">
-      Tools I Use
+      <h3>Tools I Use</h3>
     </th>
   </tr>
   <tr>
-    <td align="center" rowspan="3">
+    <td align="center" rowspan="3" height="250px">
       <img height="200px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=solarized-dark" />
     </td>
     <td align="center">
@@ -124,7 +130,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <th>
-      My Current Stack
+      <h3>My Current Stack</h3>
     </th>
   </tr>
   <tr>
@@ -139,13 +145,16 @@ You can click the Preview link to take a look at your changes.
       &nbsp;&nbsp;&nbsp;
     </td>
   </tr>
-  <tr align="center" height="300">
-    <td colspan="3">
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr align="center">
+    <td colspan="3" height="300px">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=andys-github&theme=radical&hide_border=true&fire=yellow&ring=orange" alt="Anindya's Github Streak" title="Anindya's Github Streak" width="650" />
     </td>
   </tr>
   <tr align="center" height="200">
-    <td colspan="3">
+    <td colspan="3" height="250px">
       <img src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" height="200px" />
     </td>
   </tr>
