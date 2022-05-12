@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
-    <td colspan="3">&nbsp;</td>
+    <td colspan="3"></td>
   </tr>
   <tr>
     <th colspan="1">
@@ -65,11 +65,8 @@ You can click the Preview link to take a look at your changes.
       <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
     </td>
     <td colspan="2"  align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="200px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="200px" width="450px" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="3">&nbsp;</td>
   </tr>
   <tr>
     <th width="500" colspan="1">
@@ -140,7 +137,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
-    <td colspan="3">&nbsp;</td>
+    <td colspan="3"></td>
   </tr>
   <tr align="center">
     <td colspan="3" height="300px">
