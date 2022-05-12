@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
     <td align="center" colspan="1">
       <table>
         <tr>
-          <th colspan="2">Get in touch!</th>
+          <th colspan="3">Get in touch!</th>
         </tr>
         <tr>
           <td>
@@ -29,6 +29,11 @@ You can click the Preview link to take a look at your changes.
           <td>
             <a href="https://www.twitter.com/anindya0101" target="_blank" rel="noopener noreferrer">
               <img alt="Anindya's Twitter Account" src="https://user-images.githubusercontent.com/30517208/161002854-1e3d59f7-7bed-4fa6-8ceb-0bda9850512b.svg" height="32" width="32"/>
+            </a>
+          </td>
+          <td>
+            <a href="mailto:andy.ani1992@gmail.com" target="_blank" rel="noopener noreferrer">
+              <img alt="Anindya's Gmail Id" src="https://user-images.githubusercontent.com/30517208/168090444-6828538a-9988-4f31-b62d-5a0887f9eeb9.svg" height="32" width="32"/>
             </a>
           </td>
         </tr>
@@ -42,6 +47,8 @@ You can click the Preview link to take a look at your changes.
             <a href="https://discord.gg/6aGZhKts" target="_blank" rel="noopener noreferrer">
               <img alt="Bits n' Bytes Discord Server" title="Bits n' Bytes Discord Server" src="https://user-images.githubusercontent.com/30517208/167137999-4d84332d-9e34-4478-8161-872d8168be0a.svg" height="32" width="32"/>
             </a>
+          </td>
+          <td>
           </td>
         </tr>
       </table>
