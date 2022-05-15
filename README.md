@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td align="center" colspan="1" height="250px">
-      <img height="200px" width="550px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=solarized-dark" />
+      <img height="200px" width="550px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=solarized-light" />
     </td>
     <td align="center" colspan="2">
       <table>
