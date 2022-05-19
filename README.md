@@ -143,9 +143,6 @@ You can click the Preview link to take a look at your changes.
       </table>
     </td>
   </tr>
-  <tr>
-    <td colspan="3"></td>
-  </tr>
   <tr align="center">
     <td colspan="3" height="300px">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=andys-github&theme=radical&hide_border=true&fire=yellow&ring=orange" alt="Anindya's Github Streak" title="Anindya's Github Streak" width="650" height="250px" />
